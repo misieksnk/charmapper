@@ -1,0 +1,19 @@
+{
+    "name": "misieksnk/charmapper",
+    "description": "Simple character mapping class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "misieksnk",
+            "email": "michal@brygidyn.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "MisiekSnk\\CharMapper": "src/"
+        }
+    }
+}
