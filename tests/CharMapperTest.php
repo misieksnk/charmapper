@@ -36,8 +36,8 @@ class CharMapperTest extends \PHPUnit_Framework_TestCase
      */
     public function dpItShouldReturnMappedString() {
         return [
-            ['GRZEGRZÓŁKA', 'GRZEGRZOLKA'],
-            ['grzegrzółka', 'grzegrzolka'],
+            ['GŻEGŻÓŁKA', 'GZEGZOLKA'],
+            ['gżegżółka', 'gzegzolka'],
             ['छ', 'Chha']
         ];
     }
