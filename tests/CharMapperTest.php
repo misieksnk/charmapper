@@ -1,5 +1,4 @@
 <?php
-require_once '/Users/misiek/Sites/misieksnk/charmapper/src/MisiekSnk/CharMapper/CharMapper.php';
 
 use MisiekSnk\CharMapper\CharMapper;
 
