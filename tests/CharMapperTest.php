@@ -1,6 +1,6 @@
 <?php
 
-use MisiekSnk\CharMapper\CharMapper;
+namespace MisiekSnk\CharMapper;
 
 /**
  * Class CharMapperTest
